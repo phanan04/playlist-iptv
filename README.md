@@ -1,6 +1,6 @@
 # Playlist IPTV chọn lọc cho LaunchPad TV
 
-163 kênh riêng biệt, chia 15 danh mục. File có 179 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
+163 kênh riêng biệt và 1 luồng UDP thử, chia 15 danh mục. File có 180 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
 
 ## Link để thêm vào TV
 

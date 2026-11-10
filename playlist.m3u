@@ -11,6 +11,8 @@ https://dethich.pw/vtv4/index.m3u8
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv6.webp" group-title="01. Việt Nam - tổng hợp",VTV6 HD
 https://dethich.pw/vtv6/index.m3u8
+#EXTINF:-1 group-title="01. Việt Nam - tổng hợp",FPT UDP - thử 225.1.2.154
+udp://225.1.2.154:30120
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv7.webp" group-title="01. Việt Nam - tổng hợp",VTV7 HD
 https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv8.webp" group-title="01. Việt Nam - tổng hợp",VTV8 HD
