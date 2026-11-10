@@ -1,6 +1,6 @@
 # Playlist IPTV chọn lọc cho LaunchPad TV
 
-163 kênh riêng biệt và 1 luồng UDP thử, chia 15 danh mục. File có 180 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
+163 kênh riêng biệt, chia 15 danh mục. File có 179 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
 
 ## Link để thêm vào TV
 
@@ -36,6 +36,7 @@ Với LaunchPad TV, có thể đăng ký link này thành code loại IPTV tại
 
 - Chọn lọc ngày **10/11/2026** từ [IPTV-org](https://github.com/iptv-org/iptv): [toàn bộ kênh](https://iptv-org.github.io/iptv/index.m3u), [thể thao](https://iptv-org.github.io/iptv/categories/sports.m3u).
 - VTV1–VTV10 dùng nguồn M3U8 đã kiểm tra có nhánh 1920×1080 và trả dữ liệu video. Các kênh khác giữ URL phát và thông tin từ danh sách gốc.
+- VTV6 dùng luồng HLS từ [playlist vmttv](https://d.org.vn/listiptv), đã kiểm tra có nhánh 1920×1080 và tải được một đoạn video.
 - Lịch VTV1–VTV10 lấy từ [VNEPG (XMLTV)](https://epg.io.vn/epg.xml). Playlist gắn URL lịch và mã kênh tương ứng. Khả năng hiện lịch khi nhập bằng mã IPTV tùy trình nhập của LaunchPad.
 - Đây là lựa chọn theo nhu cầu xem, không phải bảng xếp hạng lượng người xem.
 - Chưa xác minh phát từng luồng trên TV tại Việt Nam. Một số luồng có thể hết hạn, giới hạn vùng hoặc ngừng hoạt động. Kênh nước ngoài không mặc nhiên có tiếng Việt hay phụ đề Việt.

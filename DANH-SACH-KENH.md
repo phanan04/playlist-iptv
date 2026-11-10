@@ -3,14 +3,13 @@
 Nguồn: IPTV-org. Đây là bản chọn lọc theo tên kênh và nhu cầu, không phải bảng xếp hạng lượng người xem. Chưa kiểm thử phát từng luồng trên TV tại Việt Nam. Kênh nước ngoài không mặc nhiên có tiếng Việt hoặc phụ đề Việt.
 VTV1–VTV10 dùng nguồn M3U8 có nhánh 1920×1080. Các kênh khác giữ URL và thông tin từ danh sách gốc. Nhóm thể thao theo giải là lối truy cập nhanh, không bảo đảm trận cụ thể. Một kênh có thể có ở nhiều nhóm; LaunchPad có thể gộp URL trùng.
 
-## 01. Việt Nam - tổng hợp (19 mục)
+## 01. Việt Nam - tổng hợp (18 kênh)
 - VTV1 HD
 - VTV2 HD
 - VTV3 HD
 - VTV4 HD
 - VTV5 HD
 - VTV6 HD
-- FPT UDP - thử 225.1.2.154 (chưa xác minh tên kênh)
 - VTV7 HD
 - VTV8 HD
 - VTV9 HD
