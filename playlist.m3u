@@ -1,23 +1,23 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="01. Việt Nam - tổng hợp",VTV1 HD (1080p)
+#EXTM3U x-tvg-url="https://epg.io.vn/epg.xml" url-tvg="https://epg.io.vn/epg.xml"
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="01. Việt Nam - tổng hợp",VTV1 HD (1080p)
 https://dethich.pw/vtv1/index.m3u8
-#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="01. Việt Nam - tổng hợp",VTV2 HD (1080p)
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="01. Việt Nam - tổng hợp",VTV2 HD (1080p)
 https://dethich.pw/vtv2/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="01. Việt Nam - tổng hợp",VTV3 HD (1080p)
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="01. Việt Nam - tổng hợp",VTV3 HD (1080p)
 https://dethich.pw/vtv3/index.m3u8
-#EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="01. Việt Nam - tổng hợp",VTV4 HD (1080p)
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="01. Việt Nam - tổng hợp",VTV4 HD (1080p)
 https://dethich.pw/vtv4/index.m3u8
-#EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="01. Việt Nam - tổng hợp",VTV5 HD (1080p)
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="01. Việt Nam - tổng hợp",VTV5 HD (1080p)
 https://dethich.pw/vtv5/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn@HD" group-title="01. Việt Nam - tổng hợp",VTV6 HD (1080p)
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png" group-title="01. Việt Nam - tổng hợp",VTV6 HD (1080p)
 https://dethich.pw/vtv6/index.m3u8
-#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="01. Việt Nam - tổng hợp",VTV7 HD (1080p)
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="01. Việt Nam - tổng hợp",VTV7 HD (1080p)
 https://dethich.pw/vtv7/index.m3u8
-#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="01. Việt Nam - tổng hợp",VTV8 HD (1080p)
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="01. Việt Nam - tổng hợp",VTV8 HD (1080p)
 https://dethich.pw/vtv8/index.m3u8
-#EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="01. Việt Nam - tổng hợp",VTV9 HD (1080p)
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="01. Việt Nam - tổng hợp",VTV9 HD (1080p)
 https://dethich.pw/vtv9/index.m3u8
-#EXTINF:-1 tvg-id="VTV10.vn@HD" group-title="01. Việt Nam - tổng hợp",VTV10 HD (1080p)
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png" group-title="01. Việt Nam - tổng hợp",VTV10 HD (1080p)
 https://dethich.pw/vtv10/index.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" group-title="01. Việt Nam - tổng hợp",HTV7 (720p)
 https://dethich.pw/htv7/index.m3u8
