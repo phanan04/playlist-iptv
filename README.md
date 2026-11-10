@@ -1,6 +1,6 @@
 # Playlist IPTV chọn lọc cho LaunchPad TV
 
-226 kênh riêng biệt, chia 23 danh mục. File có 242 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
+163 kênh riêng biệt, chia 15 danh mục. File có 179 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
 
 ## Link để thêm vào TV
 
@@ -18,13 +18,8 @@ Với LaunchPad TV, có thể đăng ký link này thành code loại IPTV tại
 
 1. Việt Nam — tổng hợp
 2. Tin tức quốc tế
-3. Phim và phim bộ
 4. Thiếu nhi và hoạt hình
-5. Âm nhạc
 6. Khoa học và khám phá
-7. Du lịch và ẩm thực
-8. Giải trí và phong cách
-9. Kinh tế và tài chính
 10. F1
 11. C1 — kênh theo lịch
 12. Ngoại hạng Anh — kênh theo lịch
@@ -32,18 +27,15 @@ Với LaunchPad TV, có thể đăng ký link này thành code loại IPTV tại
 14. Bóng đá tổng hợp
 15. Bóng chuyền
 16. Tennis
-17. Bóng rổ và thể thao Mỹ
 18. Võ thuật và quyền Anh
 19. Golf
 20. Đua xe và thể thao mạo hiểm
-21. Bi-a và snooker
 22. Thể thao tổng hợp
-23. Tin thể thao
 
 ## Nguồn và phạm vi kiểm tra
 
 - Chọn lọc ngày **10/11/2026** từ [IPTV-org](https://github.com/iptv-org/iptv): [toàn bộ kênh](https://iptv-org.github.io/iptv/index.m3u), [thể thao](https://iptv-org.github.io/iptv/categories/sports.m3u).
-- Giữ nguyên URL phát, tên kênh, logo, tvg-id và tùy chọn Referer/User-Agent của nguồn; điều chỉnh danh mục và thứ tự.
+- VTV1–VTV10 dùng nguồn M3U8 đã kiểm tra có nhánh 1920×1080 và trả dữ liệu video. Các kênh khác giữ URL phát và thông tin từ danh sách gốc.
 - Đây là lựa chọn theo nhu cầu xem, không phải bảng xếp hạng lượng người xem.
 - Chưa xác minh phát từng luồng trên TV tại Việt Nam. Một số luồng có thể hết hạn, giới hạn vùng hoặc ngừng hoạt động. Kênh nước ngoài không mặc nhiên có tiếng Việt hay phụ đề Việt.
 - Nhóm theo giải chỉ là đường truy cập nhanh tới các kênh liên quan; phải xem lịch phát và phiên bản kênh theo quốc gia, không bảo đảm có mọi trận.

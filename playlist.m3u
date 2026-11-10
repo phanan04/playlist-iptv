@@ -1,20 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="01. Việt Nam - tổng hợp",VTV1 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+https://dethich.pw/vtv1/index.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="01. Việt Nam - tổng hợp",VTV2 HD (1080p)
-http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
+https://dethich.pw/vtv2/index.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="01. Việt Nam - tổng hợp",VTV3 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
+https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="01. Việt Nam - tổng hợp",VTV4 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
+https://dethich.pw/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="01. Việt Nam - tổng hợp",VTV5 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn@HD" group-title="01. Việt Nam - tổng hợp",VTV6 HD (1080p)
+https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="01. Việt Nam - tổng hợp",VTV7 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="01. Việt Nam - tổng hợp",VTV8 HD (720p)
+https://dethich.pw/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="01. Việt Nam - tổng hợp",VTV8 HD (1080p)
 https://dethich.pw/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="01. Việt Nam - tổng hợp",VTV9 HD (1080p)
-https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
+https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="VTV10.vn@HD" group-title="01. Việt Nam - tổng hợp",VTV10 HD (1080p)
+https://dethich.pw/vtv10/index.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp" group-title="01. Việt Nam - tổng hợp",HTV7 (720p)
 https://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp" group-title="01. Việt Nam - tổng hợp",HTV9 (720p)
@@ -63,34 +67,6 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="02. Tin tức quốc tế",CGTN (1080p)
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="03. Phim và phim bộ",AMC (United States) (720p)
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="03. Phim và phim bộ",Sony Movies (United States) (720p)
-https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us@US" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="03. Phim và phim bộ",MovieSphere (1080p)
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="03. Phim và phim bộ",Rakuten TV Action Movies UK (1080p)
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="03. Phim và phim bộ",Rakuten TV Comedy Movies UK (1080p)
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="03. Phim và phim bộ",Rakuten TV Drama Movies UK (1080p)
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="03. Phim và phim bộ",Rakuten TV Family Movies UK (1080p)
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="03. Phim và phim bộ",Rakuten TV Top Movies UK (1080p)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="03. Phim và phim bộ",AXN Asia Taiwan (1080p)
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl@HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="03. Phim và phim bộ",FILMBOX+ Action (720p)
-http://92.114.85.87:8008/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl@Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="03. Phim và phim bộ",FILMBOX+ Comedy (720p)
-http://92.114.85.87:8008/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="03. Phim và phim bộ",HTVC Movies (720p)
-https://dethich.pw/htvcphim/index.m3u8
-#EXTINF:-1 tvg-id="SCTV14.vn@SD" tvg-logo="https://i.imgur.com/rIqmRNK.png" group-title="03. Phim và phim bộ",SCTV14 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
-#EXTINF:-1 tvg-id="SCTV9.vn@SD" tvg-logo="https://i.imgur.com/OJMbhow.png" group-title="03. Phim và phim bộ",SCTV9 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="04. Thiếu nhi và hoạt hình",Cartoon Network Asia (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
@@ -121,38 +97,6 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 https://jmp2.uk/stvp-ESBC4700001GR
 #EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="04. Thiếu nhi và hoạt hình",ToonGoggles (720p)
 https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="05. Âm nhạc",MTV Live (720p)
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" group-title="05. Âm nhạc",MTV2 (720p)
-http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="05. Âm nhạc",MTV Spankin' New (1080p)
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="05. Âm nhạc",Vevo Pop (1080p)
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo80s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="05. Âm nhạc",Vevo '80s (1080p)
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="05. Âm nhạc",Vevo '90s (1080p)
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="05. Âm nhạc",Vevo 2K (1080p)
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="05. Âm nhạc",Vevo Retro Rock (1080p)
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoRB.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="05. Âm nhạc",Vevo R&B (1080p)
-https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
-#EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="05. Âm nhạc",Vevo Hip Hop (1080p)
-https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica.ca@SD" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="05. Âm nhạc",Stingray Classica (1080p)
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png" group-title="05. Âm nhạc",Stingray DJAZZ (1080p)
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="05. Âm nhạc",Stingray Classic Rock (1080p)
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca@SD" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="05. Âm nhạc",Stingray Today's K-Pop (1080p)
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="StingrayiConcerts.ca@HD" tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="05. Âm nhạc",Stingray iConcerts HD
-https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="05. Âm nhạc",Trace Urban (1080p)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="06. Khoa học và khám phá",National Geographic (United Kingdom)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://82.47.42.44/stream/405/index.m3u8
@@ -182,44 +126,6 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="06. Khoa học và khám phá",PBS Nature (1080p)
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="07. Du lịch và ẩm thực",Tastemade (1080p)
-https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeTravel.us@SD" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="07. Du lịch và ẩm thực",Tastemade Travel (1080p)
-https://d6ef3usc6d9cl.cloudfront.net/Tastemade_Travel.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="07. Du lịch và ẩm thực",Food Network (United States) (720p)
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.cz@SD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/e4/Travel_Channel_International_%282017%29.svg/revision/latest?cb=20250820081027" group-title="07. Du lịch và ẩm thực",Travel Channel (Czech Republic)
-http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="07. Du lịch và ẩm thực",Travel+Adventure (1080p)
-http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-#EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="07. Du lịch và ẩm thực",PBS Travel (1080p)
-https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
-#EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="07. Du lịch và ẩm thực",bon appetit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="08. Giải trí và phong cách",Comedy Central Pluto TV
-https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
-#EXTINF:-1 tvg-id="ComedyDynamics.us@SD" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="08. Giải trí và phong cách",Comedy Dynamics (1080p)
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD" tvg-logo="https://i.imgur.com/GFTAN5Q.png" group-title="08. Giải trí và phong cách",FashionTV Paris L'Original (1080p)
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png" group-title="08. Giải trí và phong cách",FashionTV Europe (1080p)
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="08. Giải trí và phong cách",HTVC Family (720p)
-https://dethich.pw/htvcgiadinh/index.m3u8
-#EXTINF:-1 tvg-id="HTVCWomen.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="08. Giải trí và phong cách",HTVC Women (720p)
-https://dethich.pw/htvcphunu/index.m3u8
-#EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="08. Giải trí và phong cách",SCTV6 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="09. Kinh tế và tài chính",Bloomberg TV (1080p)
-http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="09. Kinh tế và tài chính",Bloomberg TV Asia (720p)
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="09. Kinh tế và tài chính",Bloomberg Originals (1080p)
-https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="09. Kinh tế và tài chính",CNBC Asia HD (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9855
-#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="09. Kinh tế và tài chính",CNBC UK (1080p)
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SkySportsF1.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="10. F1",Sky Sports F1 (720p)
 #EXTVLCOPT:http-referrer=https://stmify.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
@@ -394,26 +300,6 @@ https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="16. Tennis",CCTV-Golf & Tennis (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="17. Bóng rổ và thể thao Mỹ",NBA TV (720p)
-http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="17. Bóng rổ và thể thao Mỹ",NFL Network (720p)
-http://198.58.104.90:8989/nfl/index.m3u8
-#EXTINF:-1 tvg-id="NFLChannel.us@SD" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="17. Bóng rổ và thể thao Mỹ",NFL Channel (720p)
-https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
-#EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36" group-title="17. Bóng rổ và thể thao Mỹ",Sky Sports NFL (720p)
-#EXTVLCOPT:http-referrer=https://stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
-https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="17. Bóng rổ và thể thao Mỹ",NHL Network (1080p)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://i.imgur.com/ym3su2J.png" group-title="17. Bóng rổ và thể thao Mỹ",MLB (720p)
-https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
-#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="17. Bóng rổ và thể thao Mỹ",MLB Strike Zone (720p)
-http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="17. Bóng rổ và thể thao Mỹ",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="17. Bóng rổ và thể thao Mỹ",Fox Sports 2 (720p)
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
 #EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="18. Võ thuật và quyền Anh",Bellator MMA
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png" group-title="18. Võ thuật và quyền Anh",PFL MMA (720p)
@@ -463,12 +349,6 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="20. Đua xe và thể thao mạo hiểm",Fast&FunBox
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="21. Bi-a và snooker",CCTV-Billiards (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.us@CA" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="21. Bi-a và snooker",Pluto TV Snooker 900 (United States)
-https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSnooker900.se@SE" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="21. Bi-a và snooker",Pluto TV Snooker 900 (Sweden) (720p)
-https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="22. Thể thao tổng hợp",ESPN (United States) HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="22. Thể thao tổng hợp",ESPN 2 (United States) HD (720p)
@@ -521,15 +401,3 @@ http://31.148.48.15/Match_Arena_HD/index.m3u8
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="22. Thể thao tổng hợp",Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1 tvg-id="SkySportsNews.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" http-referrer="https://stmify.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="23. Tin thể thao",Sky Sports News (576p)
-#EXTVLCOPT:http-referrer=https://stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-#EXTINF:-1 tvg-id="SkySportNews.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/960px-Sky_Sport_News_2020.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="23. Tin thể thao",Sky Sport News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.142.104.86/stream/47/index.m3u8
-#EXTINF:-1 tvg-id="FoxSportsNews.au@SD" tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="23. Tin thể thao",Fox Sports News (1080p)
-https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-#EXTINF:-1 tvg-id="SportTVPlus.pt@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="23. Tin thể thao",Sport TV+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://znty.dyndns.org:5010/hls/sportv+.m3u8

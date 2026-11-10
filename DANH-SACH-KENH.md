@@ -1,17 +1,19 @@
 # Playlist phổ biến nhiều thể loại — 10/11/2026
 
 Nguồn: IPTV-org. Đây là bản chọn lọc theo tên kênh và nhu cầu, không phải bảng xếp hạng lượng người xem. Chưa kiểm thử phát từng luồng trên TV tại Việt Nam. Kênh nước ngoài không mặc nhiên có tiếng Việt hoặc phụ đề Việt.
-Giữ nguyên URL, tvg-id, logo, User-Agent và Referer. Nhóm thể thao theo giải là lối truy cập nhanh, không bảo đảm trận cụ thể. Một kênh có thể có ở nhiều nhóm; LaunchPad có thể gộp URL trùng.
+VTV1–VTV10 dùng nguồn M3U8 có nhánh 1920×1080. Các kênh khác giữ URL và thông tin từ danh sách gốc. Nhóm thể thao theo giải là lối truy cập nhanh, không bảo đảm trận cụ thể. Một kênh có thể có ở nhiều nhóm; LaunchPad có thể gộp URL trùng.
 
-## 01. Việt Nam - tổng hợp (16 kênh)
+## 01. Việt Nam - tổng hợp (18 kênh)
 - VTV1 HD (1080p)
 - VTV2 HD (1080p)
 - VTV3 HD (1080p)
 - VTV4 HD (1080p)
 - VTV5 HD (1080p)
+- VTV6 HD (1080p)
 - VTV7 HD (1080p)
-- VTV8 HD (720p)
+- VTV8 HD (1080p)
 - VTV9 HD (1080p)
+- VTV10 HD (1080p)
 - HTV7 (720p)
 - HTV9 (720p)
 - Vinh Long TV 1 (720p)
@@ -39,22 +41,6 @@ Giữ nguyên URL, tvg-id, logo, User-Agent và Referer. Nhóm thể thao theo g
 - Arirang TV (1080p)
 - CGTN (1080p)
 
-## 03. Phim và phim bộ (14 kênh)
-- AMC (United States) (720p)
-- Sony Movies (United States) (720p)
-- MovieSphere (1080p)
-- Rakuten TV Action Movies UK (1080p)
-- Rakuten TV Comedy Movies UK (1080p)
-- Rakuten TV Drama Movies UK (1080p)
-- Rakuten TV Family Movies UK (1080p)
-- Rakuten TV Top Movies UK (1080p)
-- AXN Asia Taiwan (1080p)
-- FILMBOX+ Action (720p)
-- FILMBOX+ Comedy (720p)
-- HTVC Movies (720p)
-- SCTV14 (720p)
-- SCTV9 (720p)
-
 ## 04. Thiếu nhi và hoạt hình (13 kênh)
 - Cartoon Network Asia (720p)
 - Cartoonito Asia (720p)
@@ -69,24 +55,6 @@ Giữ nguyên URL, tvg-id, logo, User-Agent và Referer. Nhóm thể thao theo g
 - Peppa Pig
 - ducktv (720p)
 - ToonGoggles (720p)
-
-## 05. Âm nhạc (16 kênh)
-- MTV Live (720p)
-- MTV2 (720p)
-- MTV Spankin' New (1080p)
-- Vevo Pop (1080p)
-- Vevo '80s (1080p)
-- Vevo '90s (1080p)
-- Vevo 2K (1080p)
-- Vevo Retro Rock (1080p)
-- Vevo R&B (1080p)
-- Vevo Hip Hop (1080p)
-- Stingray Classica (1080p)
-- Stingray DJAZZ (1080p)
-- Stingray Classic Rock (1080p)
-- Stingray Today's K-Pop (1080p)
-- Stingray iConcerts HD
-- Trace Urban (1080p)
 
 ## 06. Khoa học và khám phá (14 kênh)
 - National Geographic (United Kingdom)
@@ -103,34 +71,6 @@ Giữ nguyên URL, tvg-id, logo, User-Agent và Referer. Nhóm thể thao theo g
 - CGTN Documentary (1080p)
 - Documentary+ (1080p)
 - PBS Nature (1080p)
-
-## 07. Du lịch và ẩm thực (7 kênh)
-- Tastemade (1080p)
-- Tastemade Travel (1080p)
-- Food Network (United States) (720p)
-- Travel Channel (Czech Republic)
-- Travel+Adventure (1080p)
-- PBS Travel (1080p)
-- bon appetit (1080p)
-
-## 08. Giải trí và phong cách (7 kênh)
-- Comedy Central Pluto TV
-- Comedy Dynamics (1080p)
-- FashionTV Paris L'Original (1080p)
-- FashionTV Europe (1080p)
-- HTVC Family (720p)
-- HTVC Women (720p)
-- SCTV6 (720p)
-
-## 09. Kinh tế và tài chính (5 kênh)
-- Bloomberg TV (1080p)
-- Bloomberg TV Asia (720p)
-- Bloomberg Originals (1080p)
-- CNBC Asia HD (1080p)
-- CNBC UK (1080p)
-
-## Thể thao
-Giữ đủ 14 nhóm của bản thể thao mở rộng; số thứ tự chuyển thành 10–23.
 
 ## 10. F1 (3 mục)
 - Sky Sports F1 (720p)
@@ -210,16 +150,6 @@ Giữ đủ 14 nhóm của bản thể thao mở rộng; số thứ tự chuyể
 - Tennis Channel +2 (720p)
 - SuperTennis (1080p)
 - CCTV-Golf & Tennis (1080p)
-## 17. Bóng rổ và thể thao Mỹ (9 mục)
-- NBA TV (720p)
-- NFL Network (720p)
-- NFL Channel (720p)
-- Sky Sports NFL (720p)
-- NHL Network (1080p)
-- MLB (720p)
-- MLB Strike Zone (720p)
-- Fox Sports 1 (720p)
-- Fox Sports 2 (720p)
 ## 18. Võ thuật và quyền Anh (12 mục)
 - Bellator MMA
 - PFL MMA (720p)
@@ -247,10 +177,6 @@ Giữ đủ 14 nhóm của bản thể thao mở rộng; số thứ tự chuyể
 - FloRacing (1080p)
 - ACI Sport TV SD (1080p)
 - Fast&FunBox
-## 21. Bi-a và snooker (3 mục)
-- CCTV-Billiards (1080p)
-- Pluto TV Snooker 900 (United States)
-- Pluto TV Snooker 900 (Sweden) (720p)
 ## 22. Thể thao tổng hợp (23 mục)
 - ESPN (United States) HD (720p)
 - ESPN 2 (United States) HD (720p)
@@ -275,8 +201,3 @@ Giữ đủ 14 nhóm của bản thể thao mở rộng; số thứ tự chuyể
 - Match! Arena (720p)
 - Match! Igra (720p)
 - Match! Strana (720p)
-## 23. Tin thể thao (4 mục)
-- Sky Sports News (576p)
-- Sky Sport News
-- Fox Sports News (1080p)
-- Sport TV+
