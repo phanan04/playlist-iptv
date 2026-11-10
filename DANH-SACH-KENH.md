@@ -4,16 +4,16 @@ Nguồn: IPTV-org. Đây là bản chọn lọc theo tên kênh và nhu cầu, k
 VTV1–VTV10 dùng nguồn M3U8 có nhánh 1920×1080. Các kênh khác giữ URL và thông tin từ danh sách gốc. Nhóm thể thao theo giải là lối truy cập nhanh, không bảo đảm trận cụ thể. Một kênh có thể có ở nhiều nhóm; LaunchPad có thể gộp URL trùng.
 
 ## 01. Việt Nam - tổng hợp (18 kênh)
-- VTV1 HD (1080p)
-- VTV2 HD (1080p)
-- VTV3 HD (1080p)
-- VTV4 HD (1080p)
-- VTV5 HD (1080p)
-- VTV6 HD (1080p)
-- VTV7 HD (1080p)
-- VTV8 HD (1080p)
-- VTV9 HD (1080p)
-- VTV10 HD (1080p)
+- VTV1 HD
+- VTV2 HD
+- VTV3 HD
+- VTV4 HD
+- VTV5 HD
+- VTV6 HD
+- VTV7 HD
+- VTV8 HD
+- VTV9 HD
+- VTV10 HD
 - HTV7 (720p)
 - HTV9 (720p)
 - Vinh Long TV 1 (720p)
