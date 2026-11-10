@@ -201,3 +201,14 @@ VTV1–VTV10 dùng nguồn M3U8 có nhánh 1920×1080. Các kênh khác giữ UR
 - Match! Arena (720p)
 - Match! Igra (720p)
 - Match! Strana (720p)
+
+## vtv_2 (9 nguồn dự phòng)
+- VTV1 HD
+- VTV2 HD
+- VTV3 HD
+- VTV4 HD
+- VTV5 HD
+- VTV7 HD
+- VTV8 HD
+- VTV9 HD
+- VTV10 HD

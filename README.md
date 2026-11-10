@@ -1,6 +1,6 @@
 # Playlist IPTV chọn lọc cho LaunchPad TV
 
-163 kênh riêng biệt, chia 15 danh mục. File có 179 mục vì một số kênh thể thao xuất hiện trong nhiều nhóm theo giải đấu.
+163 kênh riêng biệt, chia 16 danh mục. File có 188 mục, gồm các nguồn VTV dự phòng và một số kênh thể thao xuất hiện trong nhiều nhóm.
 
 ## Link để thêm vào TV
 
@@ -31,6 +31,7 @@ Với LaunchPad TV, có thể đăng ký link này thành code loại IPTV tại
 19. Golf
 20. Đua xe và thể thao mạo hiểm
 22. Thể thao tổng hợp
+- vtv_2 — nguồn VTV dự phòng từ vmttv (VTV6 đã dùng nguồn này trong nhóm Việt Nam).
 
 ## Nguồn và phạm vi kiểm tra
 

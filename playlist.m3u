@@ -401,3 +401,21 @@ http://31.148.48.15/Match_Arena_HD/index.m3u8
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@SD" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="22. Thể thao tổng hợp",Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv1.webp" group-title="vtv_2",VTV1 HD
+https://freem3u.xyz/api/live/play.m3u8?vid=2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv2.webp" group-title="vtv_2",VTV2 HD
+https://vmttv.dpdns.org/tv360/?id=vtv2
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv3.webp" group-title="vtv_2",VTV3 HD
+https://vmttv.dpdns.org/tv360/?id=vtv3
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv4.webp" group-title="vtv_2",VTV4 HD
+https://vmttv.dpdns.org/tv360/?id=vtv4
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv5.webp" group-title="vtv_2",VTV5 HD
+https://freem3u.xyz/api/live/play.m3u8?vid=110
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv7.webp" group-title="vtv_2",VTV7 HD
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv8.webp" group-title="vtv_2",VTV8 HD
+https://vmttv.dpdns.org/tv360/?id=vtv8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv9.webp" group-title="vtv_2",VTV9 HD
+https://vmttv.dpdns.org/tv360/?id=vtv9
+#EXTINF:-1 tvg-id="vtv10hd" tvg-logo="https://tv.launchpad2.app/logos/vn/home/vtv10.webp" group-title="vtv_2",VTV10 HD
+https://vmttv.dpdns.org/tv360/?id=vtv10
