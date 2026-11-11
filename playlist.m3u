@@ -123,8 +123,6 @@ https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="Tennis",CCTV-Golf & Tennis (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Bóng chuyền" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/8.png?w=800&fit=scale-down&q=85",VTV6
-https://vmttv.dpdns.org/tv360/?id=vtv6
 #EXTINF:-1 tvg-id="GolfChannel.us@SD" tvg-logo="https://i.imgur.com/Lgux6Ik.png" group-title="Golf",Golf Channel (United States) (576p)
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
 #EXTINF:-1 group-title="Golf",ON Golf

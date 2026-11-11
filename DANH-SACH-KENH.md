@@ -64,9 +64,6 @@
 - Tennis Channel +2 (720p)
 - CCTV-Golf & Tennis (1080p)
 
-## Bóng chuyền (1 mục)
-- VTV6
-
 ## Golf (2 mục)
 - Golf Channel (United States) (576p)
 - ON Golf
